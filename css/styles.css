@@ -40,3 +40,12 @@ h1 {
 }
 
 /* Download buttons */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title image */
+.title-image {
+  width: 60%;
+}
