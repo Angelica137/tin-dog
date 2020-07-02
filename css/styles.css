@@ -2,6 +2,19 @@ body {
   font-family: "Montserrat";
 }
 
+/* Headings */
+.big-heading {
+  font-family: "Montserrat";
+  font-weight: 900;
+  font-size: 3.4rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 #title {
   background-color: #ff4c68;
   color: #fff;
@@ -23,11 +36,6 @@ h6 {
 
 h1 {
   font-size: 3.5rem;
-  line-height: 1.5;
-}
-
-h2 {
-  font-size: 3rem;
   line-height: 1.5;
 }
 
